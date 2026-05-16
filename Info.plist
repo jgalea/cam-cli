@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.jeangalea.cam</string>
+    <key>CFBundleName</key>
+    <string>cam</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>NSCameraUsageDescription</key>
+    <string>cam captures stills from a connected camera (including iPhone Continuity Camera) for use in the terminal.</string>
+    <key>LSUIElement</key>
+    <false/>
+</dict>
+</plist>
