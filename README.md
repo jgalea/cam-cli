@@ -4,6 +4,8 @@ Viewfinder + capture from any Mac camera, including iPhone Continuity Camera, in
 
 `cam` opens a live viewfinder window. Press space or return to capture; the photo lands on disk and either renders inline in your terminal (iTerm2/Ghostty/WezTerm/kitty) or pops in Quick Look. No saving to Photos, no AirDrop dance.
 
+It's macOS-only: the camera access and viewfinder window are built on AVFoundation and AppKit, which don't exist on Linux or Windows.
+
 ## Install
 
 ### Homebrew
